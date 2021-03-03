@@ -1,2 +1,3 @@
 # Bio 332, Microbiology
-Programs and datasets for bioinformatic analyses
+Programs for bioinformatic analyses by Microbiology students.
+Contact me for details on their use.
